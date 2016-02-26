@@ -40,7 +40,7 @@
 	<body>
 		<div class="container">
 			<div class="content">
-				<div class="title">Laravel 5欢迎您</div>
+				<div class="title">Laravel 5欢迎您2345678</div>
 				<div class="quote">{{ Inspiring::quote() }}</div>
 			</div>
 		</div>
